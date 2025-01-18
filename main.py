@@ -29,7 +29,7 @@ USER=Config.USER
 bot = Client(
     "InstaSessibon",
     bot_token=Config.BOT_TOKEN,
-    api_id=Config.API_ID,
+    api_id=Config.CRN_HQannaZ4i7pWPgnawBr9aysUUTTbB886gjifsF,
     api_hash=Config.API_HASH,
     workers=50,
     plugins=dict(root="plugins")
